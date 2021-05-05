@@ -6,9 +6,6 @@ public class Campaign {
 	private String description;
 	private int discountRate;
 	
-	public Campaign() {
-	}
-
 	public Campaign(int id, String name, String description, int discountRate) {
 		super();
 		this.id = id;
