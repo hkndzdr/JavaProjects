@@ -18,7 +18,5 @@ public class Main {
 		userService.register(user1);
 		userService.register(user2);
 	}
-	
-	
-	}
+}
 
